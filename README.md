@@ -1,4 +1,4 @@
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=700&color=EAEAEA&center=true&vCenter=true&width=1000&height=70&lines=Hussain%20W.;Full-Stack+Developer;C/C%2B%2B/C%23;Javascript;Next.js;Python;Pen-tester"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=700&color=EAEAEA&center=true&vCenter=true&width=1000&height=70&lines=Hussain%20W.;Full-Stack+Developer;C/C%2B%2B/C%23;Cybersecurity Researcher;Penetration-tester"/>
 
 
 <p align="center">
